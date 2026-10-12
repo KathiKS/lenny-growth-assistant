@@ -1,0 +1,1 @@
+Save coding-agent transcripts/logs here, including failed attempts and how you corrected them. Remove secrets, API keys, passwords, private user data, and sensitive logs before committing.

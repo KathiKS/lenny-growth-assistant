@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+*.db
+data/transcripts/*
+!data/transcripts/.gitkeep
+node_modules/
+dist/
